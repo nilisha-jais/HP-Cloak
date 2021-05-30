@@ -43,7 +43,8 @@ The  various python modules used in project:
 - Pygame (for adding the background music)
 
 ### Note
-If you get an error of module not found while running the project. Just run
+If you get an error of module not found while running the project. Just type
 ```sh
 pip install <module-name>
 ```
+in the terminal and press <strong>Enter</strong>
