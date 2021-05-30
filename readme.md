@@ -6,7 +6,7 @@
   <p align="center">
     "The Red Camouflage Cape🦸"
     <br /><br />
-    <a href="">Live Demo</a>
+    <a href="https://youtu.be/F9S6csgR10Y">Live Demo</a>
   </p>
 </p>
 <center>
@@ -25,15 +25,15 @@
 
 Inspired by <strong>The Invisibility Cloak of Harry Potter </strong>the project <strong>The Red Camouflaged Cape </strong> is built
 <br/>
-The Cloak of invisibility is a magical artefact usead to render the wearer invisible.
+The Cloak of invisibility is a magical artefact used to render the wearer invisible.
 
 
 <!-- Extensions Required -->
 ### Usage Guidelines.
 
   To use The Red Camouflage Cape, 
-  -firstly run the file <strong>backgroundimg.py </strong>Press <strong>q </strong>to capture the image.<br>This would click the image of the background and save it with the name <strong>image.jpg</strong>
-  -Now run the file <strong>invisibilityCloak.py </strong>and see  the magic.<br>You can hide yourself in the red cloth and enjoy the mesmerizing background music!!
+  - firstly run the file <strong>backgroundimg.py </strong>Press <strong>q </strong>to capture the image.<br>This would click the image of the background and save it with the name <strong>image.jpg</strong>
+  - Now run the file <strong>invisibilityCloak.py </strong>and see  the magic.<br>You can hide yourself in the red cloth and enjoy the mesmerizing background music!!
 
 ### Built With
 The project is built using basic Python code.</br>
