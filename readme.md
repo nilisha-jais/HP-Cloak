@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-    <img src="" height="250px"  />
+    <img src="demo.jpg" height="250px"  />
   </a>
 
   <p align="center">
@@ -36,7 +36,7 @@ The Cloak of invisibility is a magical artefact usead to render the wearer invis
   -Now run the file <strong>invisibilityCloak.py </strong>and see  the magic.<br>You can hide yourself in the red cloth and enjoy the mesmerizing background music!!
 
 ### Built With
-The project is built using basic Python code.
+The project is built using basic Python code.</br>
 The  various python modules used in project:
 - OpenCV
 - Numpy
