@@ -42,3 +42,8 @@ The  various python modules used in project:
 - Numpy
 - Pygame (for adding the background music)
 
+### Note
+If you get an error of module not found while running the project. Just run
+```sh
+pip install <module-name>
+```
