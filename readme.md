@@ -32,7 +32,7 @@ The Cloak of invisibility is a magical artefact used to render the wearer invisi
 ### Usage Guidelines.
 
   To use The Red Camouflage Cape, 
-  - firstly run the file <strong>backgroundimg.py </strong>Press <strong>q </strong>to capture the image.<br>This would click the image of the background and save it with the name <strong>image.jpg</strong>
+  - firstly run the file <strong>backgroundimg.py </strong></br>Press <strong>q </strong>to capture the image.<br>This would click the image of the background and save it with the name <strong>image.jpg</strong>
   - Now run the file <strong>invisibilityCloak.py </strong>and see  the magic.<br>You can hide yourself in the red cloth and enjoy the mesmerizing background music!!
 
 ### Built With
